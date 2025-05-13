@@ -73,6 +73,7 @@ Busco activamente recursos, cursos y comunidades para expandir mi comprensión y
   <!-- Desarrollo Backend -->
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/>
   <br/>
 
   <!-- Bases de Datos -->
