@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <!-- IMPORTANTE: Reemplaza con tus enlaces reales -->
   <a href="mailto:juan.delgado9807@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -27,7 +26,7 @@
 🤝 Disfruto aprendiendo continuamente y estoy ansioso por aplicar mis conocimientos y colaborar en futuros proyectos que me permitan crecer y aportar valor.
 🌱 Siempre estoy abierto a nuevos desafíos y oportunidades de aprendizaje.
 
-<!-- Opcional: Intereses personales de forma más concisa -->
+
 <p align="center">
   <em>Cuando no estoy inmerso en la tecnología, me encontrarás disfrutando de los deportes ⚽, escuchando música 🎵 o explorando la naturaleza 🌲.</em>
 </p>
@@ -94,14 +93,14 @@ Busco activamente recursos, cursos y comunidades para expandir mi comprensión y
   <img src="https://img.shields.io/badge/DBeaver-000?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
   <br/>
 
-  <!-- Data Science y Análisis (Relevante para IA) -->
+  <!-- Data Science y Análisis -->
   <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Spyder-000?style=for-the-badge&logo=Spyder&logoColor=white" alt="Spyder"/>
   <img src="https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
   <br/>
 
-  <!-- Sistemas Operativos y Virtualización (Relevante para Ciberseguridad y desarrollo) -->
+  <!-- Sistemas Operativos y Virtualización -->
   <img src="https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=Ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Kali_Linux-000?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/VirtualBox-000?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox"/>
