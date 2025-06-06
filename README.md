@@ -98,6 +98,8 @@ Busco activamente recursos, cursos y comunidades para expandir mi comprensión y
   <img src="https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Spyder-000?style=for-the-badge&logo=Spyder&logoColor=white" alt="Spyder"/>
   <img src="https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Hadoop-000?style=for-the-badge&logo=ApacheHadoop&logoColor=white" alt="Hadoop"/>
+  <img src="https://img.shields.io/badge/Hive-000?style=for-the-badge&logo=ApacheHive&logoColor=white" alt="Hive"/>
   <br/>
 
   <!-- Sistemas Operativos y Virtualización -->
